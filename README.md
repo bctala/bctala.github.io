@@ -1,4 +1,4 @@
-# Tala Almulla — Portfolio
+# Tala Almulla: Portfolio
 
 Personal portfolio for digital forensics, incident response and AI security.
 
